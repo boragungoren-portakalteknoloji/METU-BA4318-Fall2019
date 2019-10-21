@@ -1,0 +1,22 @@
+Company;Order;Quantity;Payment
+KPMG;Daily Menu;2;Cash
+EY;Daily Menu;1;Credit
+Deloite & Touche;Coffee;4;Credit
+PWC;Daily Menu;2;Cash
+PWC;Dessert;1;Cash
+PWC;Coffee;2;Cash
+EY;Coffee;1;Credit
+KPMG;Coffee;2;Credit
+KPMG;Daily Menu;1;Cash
+EY;Daily Menu;1;Cash
+PWC;Daily Menu;2;Cash
+PWC;Coffee;2;Credit
+Deloite & Touche;Coffee;2;Credit
+Deloite & Touche;Daily Menu;1;Cash
+Deloite & Touche;Dessert;1;Cash
+Deloite & Touche;Coffee;1;Cash
+PWC;Coffee;1;Credit
+EY;Coffee;1;Credit
+KPMG;Coffee;3;Cash
+EY;Coffee;1;Credit
+PWC;Coffee;1;Credit
