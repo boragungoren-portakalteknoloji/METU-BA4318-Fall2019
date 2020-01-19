@@ -1,0 +1,29 @@
+Google Dataset Search -- https://toolbox.google.com/datasetsearch
+This is a search engine by Google which searches in sites that provides datasets. Please note that some of the datasets listed here will require paid subscription.
+
+US Government Data Portal -- https://www.data.gov/
+This site provides access to several US government data sets. Please  note that some of these data sets originate from US counties (ilçe) which may have very distinct socio-economic and demographic structure, and may not be representative of general population neither in US nor Turkey.
+
+OECD iLibrary -- https://www.oecd-ilibrary.org/statistics
+This is the data portal of OECD.
+
+EU Open Data Portal -- https://data.europa.eu/euodp/en/home
+This site gives access to EU statistics.
+
+WHO Global Health Observatory -- https://www.who.int/data/gho
+This is the worldwide resource for health related datasets.
+
+World Bank Open Data Portal -- https://data.worldbank.org/
+World Bank provides economic data, particular to subjects like growth, development, employment and welfare.
+
+IEEE Open Data Portal -- https://ieee-dataport.org/
+This portal gives access to datasets used to produce the research results in IEEE publications. As IEEE publishes around 1/3 of worldwide research, this is a vast dataset. However most data is from engineering experiments so they may or may not be useful to you immediately.
+
+TCMB EVDS -- https://evds2.tcmb.gov.tr/
+This is the data portal of Turkish Central Bank. Check this place for domestic figures on banking, inflation, interest rates, and general economic trends.
+
+TÜİK Data Portal -- http://www.tuik.gov.tr/UstMenu.do?metod=kategorist
+This site provides data sets from TÜİK. These datasets are either gathered by TÜİK employees or from Turkish government institutions.
+
+TSB Dataset on Insurance -- https://www.tsb.org.tr/resmi-istatistikler.aspx?pageID=909
+These are the statistics on Turkish Insurance sector.
